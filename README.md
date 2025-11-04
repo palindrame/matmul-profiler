@@ -1,6 +1,6 @@
 # ⚙️ Matrix Multiplication Profiling
 
-A performance comparison project demonstrating how **progressive optimizations** improve matrix multiplication speed — from **naive Python loops** to **optimized C with SIMD, tiling, and OpenMP parallelization**.
+A performance comparison project demonstrating how **progressive optimizations** improve matrix multiplication speed from **naive Python loops** to **optimized C with SIMD, tiling, and OpenMP parallelization**.
 
 ---
 
